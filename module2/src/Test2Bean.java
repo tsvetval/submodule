@@ -3,4 +3,5 @@
  */
 public class Test2Bean {
     private String ss;
+    String test;
 }
